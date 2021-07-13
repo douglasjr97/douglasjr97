@@ -16,7 +16,7 @@ Enthusiast of the best web & mobile development technologies.
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;" height="20"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width:100%;" height="20"></a>
 
-<a href="https://http://www.linkedin.com/in/douglasjr97" alt="Linkedin" rel="nofollow">
+<a href="https://www.linkedin.com/in/douglasjr97" alt="Linkedin" rel="nofollow">
     <img src="https://camo.githubusercontent.com/ca7d75f323df6592ef4540e0d3bede2ebd6e380e4a9d11b57348727d396bfa30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
 </a>
 <!--
