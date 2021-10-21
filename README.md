@@ -1,7 +1,9 @@
 ### Douglas Falcao
 __________________________________________________________________________________________________________________________________________________________________
 
-https://github-readme-stats.vercel.app/api?username=douglasjr97&theme=chartreuse-dark&show_icons=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasjr97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjr97&layout=compact&langs_count=7&theme=dracula"/>
+
+
 
 Enthusiast of the best web & mobile development technologies.
 
