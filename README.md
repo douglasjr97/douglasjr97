@@ -5,8 +5,8 @@ Enthusiast of the best web & mobile development technologies.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjr97&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasjr97&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjr97&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 ## Favorite technologies
 
@@ -54,4 +54,5 @@ Enthusiast of the best web & mobile development technologies.
 ## Networking
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasjr97/)
+
 
